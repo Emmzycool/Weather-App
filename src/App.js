@@ -16,7 +16,9 @@ import React from 'react'
 // import NotFoundPage from './MultiplePages/NotFoundPage'
 // import Layout from './MultiplePages/LayoutPage' 
 // import LoginPage from './MultiplePages/LoginPage'
-import Wheather from './Wheather App/wheather';
+import Wheather from './Wheather App/wheather'; 
+//import Portfolio from './utils/portfolio'
+//import Wheather from './Wheather App/wheather';
 
 function App (){ 
 
@@ -29,7 +31,7 @@ return(
       
 
 <div> 
-  < Wheather />
+  < Wheather/>
 </div>
 
 
